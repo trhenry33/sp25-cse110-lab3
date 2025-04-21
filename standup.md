@@ -8,7 +8,7 @@
 
 **Current Agenda**\
 Group Goals:\
-Previous Group Goals:\
+Previous Group Goals:
 
 **Individual Agendas**
 
