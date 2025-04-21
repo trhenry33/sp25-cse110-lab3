@@ -1,0 +1,23 @@
+strong {
+    color: blue;
+}
+
+h2 {
+    color: rgb(189, 20, 20)
+}
+
+#discussion{ 
+    color: #b62273;
+}
+
+#location{
+    color: hsl(181, 65%, 33%)
+}
+
+#type{
+    color: color(srgb 1 0 1)
+}
+
+#video {
+    color: color-mix( in srgb, red 30%, blue)
+}
