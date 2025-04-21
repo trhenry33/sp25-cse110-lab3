@@ -1,3 +1,15 @@
+
+
+
+
+:root {
+    --main-color: #b62273;
+}
+
+body{
+    background-color: lightblue;
+}
+
 strong {
     color: blue;
 }
@@ -20,4 +32,8 @@ h2 {
 
 #video {
     color: color-mix( in srgb, red 30%, blue)
+}
+
+#results{
+    color: var(--main-color, green)
 }
