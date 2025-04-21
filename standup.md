@@ -6,9 +6,9 @@
 
 **In Person, Zoom, or Hybrid:**
 
-**Current Agenda**
-Group Goals:
-Previous Group Goals:
+**Current Agenda**\
+Group Goals:\
+Previous Group Goals:\
 
 **Individual Agendas**
 
