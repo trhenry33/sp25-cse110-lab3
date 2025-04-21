@@ -13,10 +13,10 @@ Previous Group Goals:
 **Individual Agendas**
 
 __For Each Member State__
-Goals:
-Previous Goals:
-Current Struggles:
-Progress Since Last Meeting:
+Goals:\
+Previous Goals:\
+Current Struggles:\
+Progress Since Last Meeting:\
 Current Projected Finish Time:
 
 **Additional Topics**
