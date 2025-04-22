@@ -79,7 +79,7 @@ h2 {
   max-width: 600px;
   min-width: 300px;
 
-  position: relative;
+  
 
 
 
@@ -138,4 +138,46 @@ h2 {
 #head{
     position: sticky;
     top: 20px;
+}
+
+*.head{
+    color:blue
+}
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+}
+nav ul {
+    color: green;
+}
+input[type="text"]{
+    color:blueviolet;
+}
+
+#header > #nav-bar{
+    color:red;
+    position: relative;
+}
+
+h3 ~ p{
+    color:orange;
+}
+ 
+h2 + p{
+    font-weight: bold;
+}
+
+h2.type{
+    color:rgb(229, 38, 70);
+}
+
+
+.type:has(h2){
+    font-weight: bold;
+}
+
+.type{
+    h2 {
+        color:green;
+    }
 }
