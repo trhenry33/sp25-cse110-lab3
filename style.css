@@ -35,12 +35,12 @@ h2 {
 }
 
 #type{
-    color: color(srgb 1 0 1);
+    color: color(srgb 1, 0, 1);
     font-size: 0.5cm;
 }
 
 #form {
-    color: color-mix( in srgb, red 30%, blue);
+    color: color-mix(in srgb, red 30%, blue);
     font-size: 1.5em;
     
 }
