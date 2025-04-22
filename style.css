@@ -21,11 +21,15 @@ h2 {
 #discussion{ 
     color: #b62273;
     font-size: 18px;
+    text-decoration: solid;
+    text-align: left;
+
 }
 
 #location{
     color: hsl(181, 65%, 33%);
     font-size: 0.2in;
+    display: inline;
 }
 
 #type{
@@ -52,6 +56,7 @@ h2 {
   margin-right: 15px;
   margin-bottom: 20px;
   margin-left: 15px;
+  display: flex;
 
 
   padding-top: 10px;
@@ -69,6 +74,11 @@ h2 {
   border-width: 10px;
   border-style: solid;
 
+  max-width: 600px;
+  min-width: 300px;
+
+  position: relative;
+
 
 
 }
@@ -79,5 +89,31 @@ h2 {
     border: 3px solid lightseagreen;
     width: 300px;
     margin: auto;
-  
+    display: block;
+    height: 200px;
+    position: sticky;
+    top:10px
+
+}
+
+.button:hover{
+    color: #b62273;
+
+}
+.button:active{
+    color:aqua;
+}
+
+#grid {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    justify-content: center;
+}
+#flex{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
 }
