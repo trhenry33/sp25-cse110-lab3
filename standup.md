@@ -20,6 +20,6 @@ Progress Since Last Meeting:\
 Current Projected Finish Time:
 
 **Additional Topics**
-Other Concerns:
-Other Resources Needed:
+Other Concerns:\
+Other Resources Needed:\
 Time of Next Meeting:
